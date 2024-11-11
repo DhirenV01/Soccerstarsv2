@@ -1,0 +1,53 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+585517,24,MissedShots,0.9519999694824218,0.575999984741211,0.1419355422258377,Kylian Mbappe-Lottin,a,3423,OpenPlay,2024,RightFoot,26989,Mallorca,Real Madrid,1,1,2024-08-18 19:30:00,Vinícius Júnior,Pass
+585525,61,SavedShot,0.8809999847412109,0.705999984741211,0.03430689498782158,Kylian Mbappe-Lottin,a,3423,OpenPlay,2024,RightFoot,26989,Mallorca,Real Madrid,1,1,2024-08-18 19:30:00,Jude Bellingham,Pass
+585528,69,SavedShot,0.9390000152587891,0.6709999847412109,0.06255912035703659,Kylian Mbappe-Lottin,a,3423,OpenPlay,2024,LeftFoot,26989,Mallorca,Real Madrid,1,1,2024-08-18 19:30:00,,None
+585529,70,MissedShots,0.855999984741211,0.5790000152587891,0.026640746742486954,Kylian Mbappe-Lottin,a,3423,FromCorner,2024,RightFoot,26989,Mallorca,Real Madrid,1,1,2024-08-18 19:30:00,,Aerial
+586749,8,SavedShot,0.8930000305175781,0.6869999694824219,0.05495442450046539,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,LeftFoot,26998,Real Madrid,Real Valladolid,3,0,2024-08-25 15:00:00,Antonio Rüdiger,Chipped
+586760,57,SavedShot,0.970999984741211,0.590999984741211,0.04016342759132385,Kylian Mbappe-Lottin,h,3423,FromCorner,2024,Head,26998,Real Madrid,Real Valladolid,3,0,2024-08-25 15:00:00,,Rebound
+586767,78,SavedShot,0.924000015258789,0.5429999923706055,0.5251025557518005,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,LeftFoot,26998,Real Madrid,Real Valladolid,3,0,2024-08-25 15:00:00,Vinícius Júnior,Pass
+586770,85,MissedShots,0.924000015258789,0.6459999847412109,0.453110933303833,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,26998,Real Madrid,Real Valladolid,3,0,2024-08-25 15:00:00,Federico Valverde,HeadPass
+587377,3,BlockedShot,0.845999984741211,0.6419999694824219,0.0695992112159729,Kylian Mbappe-Lottin,a,3423,OpenPlay,2024,RightFoot,27011,Las Palmas,Real Madrid,1,1,2024-08-29 19:30:00,Vinícius Júnior,Pass
+587380,20,BlockedShot,0.860999984741211,0.34299999237060547,0.07743342965841293,Kylian Mbappe-Lottin,a,3423,OpenPlay,2024,RightFoot,27011,Las Palmas,Real Madrid,1,1,2024-08-29 19:30:00,Luka Modric,LayOff
+587383,28,SavedShot,0.7909999847412109,0.4,0.05077623203396797,Kylian Mbappe-Lottin,a,3423,OpenPlay,2024,RightFoot,27011,Las Palmas,Real Madrid,1,1,2024-08-29 19:30:00,Federico Valverde,Pass
+587388,45,BlockedShot,0.9080000305175782,0.2979999923706055,0.04670647159218788,Kylian Mbappe-Lottin,a,3423,OpenPlay,2024,RightFoot,27011,Las Palmas,Real Madrid,1,1,2024-08-29 19:30:00,,None
+587390,51,BlockedShot,0.865999984741211,0.63,0.07813135534524918,Kylian Mbappe-Lottin,a,3423,OpenPlay,2024,RightFoot,27011,Las Palmas,Real Madrid,1,1,2024-08-29 19:30:00,Luka Modric,TakeOn
+587394,54,SavedShot,0.7669999694824219,0.6419999694824219,0.023417100310325623,Kylian Mbappe-Lottin,a,3423,OpenPlay,2024,RightFoot,27011,Las Palmas,Real Madrid,1,1,2024-08-29 19:30:00,Federico Valverde,Pass
+587398,66,BlockedShot,0.7230000305175781,0.6329999923706054,0.016017915681004524,Kylian Mbappe-Lottin,a,3423,OpenPlay,2024,RightFoot,27011,Las Palmas,Real Madrid,1,1,2024-08-29 19:30:00,Rodrygo,Pass
+587405,79,MissedShots,0.905,0.27299999237060546,0.03481213375926018,Kylian Mbappe-Lottin,a,3423,OpenPlay,2024,LeftFoot,27011,Las Palmas,Real Madrid,1,1,2024-08-29 19:30:00,Rodrygo,Pass
+587406,84,MissedShots,0.9590000152587891,0.38299999237060545,0.35852599143981934,Kylian Mbappe-Lottin,a,3423,OpenPlay,2024,LeftFoot,27011,Las Palmas,Real Madrid,1,1,2024-08-29 19:30:00,Arda Güler,TakeOn
+590240,12,BlockedShot,0.79,0.7280000305175781,0.02347392961382866,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,27021,Real Madrid,Real Betis,2,0,2024-09-01 19:30:00,Ferland Mendy,Pass
+590243,21,SavedShot,0.9180000305175782,0.5729999923706055,0.09612398594617844,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,LeftFoot,27021,Real Madrid,Real Betis,2,0,2024-09-01 19:30:00,Vinícius Júnior,Cross
+590245,23,MissedShots,0.955999984741211,0.3120000076293945,0.04467800259590149,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,27021,Real Madrid,Real Betis,2,0,2024-09-01 19:30:00,Federico Valverde,Pass
+590248,33,BlockedShot,0.855,0.6809999847412109,0.03648541867733002,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,27021,Real Madrid,Real Betis,2,0,2024-09-01 19:30:00,Vinícius Júnior,Pass
+590249,37,BlockedShot,0.855,0.6890000152587891,0.035832006484270096,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,27021,Real Madrid,Real Betis,2,0,2024-09-01 19:30:00,Aurelien Tchouameni,Pass
+590257,51,BlockedShot,0.875,0.3240000152587891,0.07830160111188889,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,27021,Real Madrid,Real Betis,2,0,2024-09-01 19:30:00,,TakeOn
+590262,62,BlockedShot,0.875,0.6359999847412109,0.07419508695602417,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,LeftFoot,27021,Real Madrid,Real Betis,2,0,2024-09-01 19:30:00,Vinícius Júnior,Pass
+590265,66,Goal,0.9109999847412109,0.555,0.47091153264045715,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,LeftFoot,27021,Real Madrid,Real Betis,2,0,2024-09-01 19:30:00,Federico Valverde,Throughball
+590266,75,Goal,0.885,0.5,0.7432776093482971,Kylian Mbappe-Lottin,h,3423,Penalty,2024,RightFoot,27021,Real Madrid,Real Betis,2,0,2024-09-01 19:30:00,,Standard
+591139,17,SavedShot,0.894000015258789,0.3039999961853027,0.04145097732543945,Kylian Mbappe-Lottin,a,3423,OpenPlay,2024,LeftFoot,27031,Real Sociedad,Real Madrid,0,2,2024-09-14 19:00:00,Brahim Diaz,Pass
+591146,36,MissedShots,0.9730000305175781,0.6780000305175782,0.04703955352306366,Kylian Mbappe-Lottin,a,3423,OpenPlay,2024,RightFoot,27031,Real Sociedad,Real Madrid,0,2,2024-09-14 19:00:00,Rodrygo,TakeOn
+591160,74,Goal,0.885,0.5,0.7432776093482971,Kylian Mbappe-Lottin,a,3423,Penalty,2024,RightFoot,27031,Real Sociedad,Real Madrid,0,2,2024-09-14 19:00:00,,Standard
+592780,10,SavedShot,0.975999984741211,0.585,0.37839239835739136,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,27041,Real Madrid,Espanyol,4,1,2024-09-21 19:00:00,Arda Güler,HeadPass
+592785,20,SavedShot,0.8380000305175781,0.539000015258789,0.08117817342281342,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,27041,Real Madrid,Espanyol,4,1,2024-09-21 19:00:00,Rodrygo,Pass
+592787,25,MissedShots,0.8809999847412109,0.654000015258789,0.07535064965486526,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,27041,Real Madrid,Espanyol,4,1,2024-09-21 19:00:00,Jude Bellingham,Pass
+592788,27,SavedShot,0.93,0.63,0.37397387623786926,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,LeftFoot,27041,Real Madrid,Espanyol,4,1,2024-09-21 19:00:00,Luka Modric,Throughball
+592798,45,SavedShot,0.904000015258789,0.6220000076293946,0.07438112050294876,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,27041,Real Madrid,Espanyol,4,1,2024-09-21 19:00:00,,None
+592811,70,SavedShot,0.8869999694824219,0.5720000076293945,0.12439906597137451,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,27041,Real Madrid,Espanyol,4,1,2024-09-21 19:00:00,Lucas Vázquez,Throughball
+592810,70,BlockedShot,0.845999984741211,0.37,0.06358011066913605,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,LeftFoot,27041,Real Madrid,Espanyol,4,1,2024-09-21 19:00:00,Lucas Vázquez,Pass
+592815,72,MissedShots,0.8540000152587891,0.63,0.06803958863019943,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,27041,Real Madrid,Espanyol,4,1,2024-09-21 19:00:00,Jude Bellingham,Pass
+592819,89,Goal,0.885,0.5,0.7432776093482971,Kylian Mbappe-Lottin,h,3423,Penalty,2024,RightFoot,27041,Real Madrid,Espanyol,4,1,2024-09-21 19:00:00,,Standard
+593470,39,Goal,0.8930000305175781,0.545,0.4452016055583954,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,27051,Real Madrid,Alaves,3,2,2024-09-24 19:00:00,Jude Bellingham,Throughball
+595877,4,MissedShots,0.9309999847412109,0.3290000152587891,0.03574059531092644,Kylian Mbappe-Lottin,h,3423,FromCorner,2024,RightFoot,27063,Real Madrid,Villarreal,2,0,2024-10-05 19:00:00,Luka Modric,Cross
+595885,28,BlockedShot,0.7730000305175782,0.6890000152587891,0.02860931307077408,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,27063,Real Madrid,Villarreal,2,0,2024-10-05 19:00:00,Federico Valverde,Pass
+595888,36,BlockedShot,0.850999984741211,0.705999984741211,0.054803382605314255,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,27063,Real Madrid,Villarreal,2,0,2024-10-05 19:00:00,Eduardo Camavinga,TakeOn
+597397,19,Goal,0.740999984741211,0.504000015258789,0.021278144791722298,Kylian Mbappe-Lottin,a,3423,OpenPlay,2024,RightFoot,27075,Celta Vigo,Real Madrid,1,2,2024-10-19 19:00:00,Eduardo Camavinga,Foul
+597405,61,BlockedShot,0.870999984741211,0.47,0.07860801368951797,Kylian Mbappe-Lottin,a,3423,OpenPlay,2024,LeftFoot,27075,Celta Vigo,Real Madrid,1,2,2024-10-19 19:00:00,,None
+598713,60,SavedShot,0.7959999847412109,0.695,0.03826833888888359,Kylian Mbappe-Lottin,h,3423,FromCorner,2024,RightFoot,27085,Real Madrid,Barcelona,0,4,2024-10-26 19:00:00,Eduardo Camavinga,TakeOn
+598714,63,SavedShot,0.860999984741211,0.61,0.2900232672691345,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,27085,Real Madrid,Barcelona,0,4,2024-10-26 19:00:00,Vinícius Júnior,Throughball
+598719,70,SavedShot,0.860999984741211,0.40900001525878904,0.2709662914276123,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,27085,Real Madrid,Barcelona,0,4,2024-10-26 19:00:00,Luka Modric,BallRecovery
+601252,6,SavedShot,0.8969999694824219,0.3039999961853027,0.04648321866989136,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,27109,Real Madrid,Osasuna,4,0,2024-11-09 13:00:00,Antonio Rüdiger,Chipped
+601253,12,BlockedShot,0.840999984741211,0.275,0.05266260355710983,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,LeftFoot,27109,Real Madrid,Osasuna,4,0,2024-11-09 13:00:00,Jude Bellingham,TakeOn
+601262,55,BlockedShot,0.81,0.6309999847412109,0.11312271654605865,Kylian Mbappe-Lottin,h,3423,DirectFreekick,2024,RightFoot,27109,Real Madrid,Osasuna,4,0,2024-11-09 13:00:00,,Standard
+601263,59,MissedShots,0.9309999847412109,0.629000015258789,0.11737282574176788,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,LeftFoot,27109,Real Madrid,Osasuna,4,0,2024-11-09 13:00:00,Vinícius Júnior,Pass
+601266,66,BlockedShot,0.9159999847412109,0.6940000152587891,0.07081208378076553,Kylian Mbappe-Lottin,h,3423,OpenPlay,2024,RightFoot,27109,Real Madrid,Osasuna,4,0,2024-11-09 13:00:00,Vinícius Júnior,Pass
